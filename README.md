@@ -184,12 +184,6 @@ This can be applied in industries such as metal forming, sheet pressing, molding
 
 Rushikesh Sable
 
-PRN: 202201070107
-
 rushikeshsable9850@gmail.com
 
-Course: Process Automation
 
-Programming Language: Ladder Diagram (LD)
-
-Simulation Tools: RSLogix / OpenPLC
