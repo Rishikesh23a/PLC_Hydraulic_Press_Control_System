@@ -158,13 +158,6 @@ This can be applied in industries such as metal forming, sheet pressing, molding
 
 ---
 
-### 🔹 Simulation Results 
-
-<p align="center">
-  <img src="Screenshots/WhatsApp Image 2025-12-06 at 23.01.15_f589d0ee.jpg" width="600">
-</p>
-
----
 
 ### 🔹 Timer Operation (TON0, TON1, TON2)
 <p align="center">
