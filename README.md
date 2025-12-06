@@ -105,6 +105,7 @@ The press cycle follows this automatic sequence:
 This was verified in OpenPLC/RSLogix simulation.
 
 <h2>📂 Folder Structure</h2>
+
 ```
 plc-based-hydraulic-press-automation/
 │
