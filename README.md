@@ -33,3 +33,15 @@ This improves safety, repeatability, and efficiency in industrial operations.
 ✔ Build a Latch Circuit for safe operation
 
 ✔ Simulate the system using RSLogix/OpenPLC
+
+<h2>🧰 PLC Inputs, Outputs & Timers</h2>
+Input/Output Table
+
+| Variable    | Type             | Description                  |
+| ----------- | ---------------- | ---------------------------- |
+| **Start**   | BOOL (Input)     | Initiates the press cycle    |
+| **Stop**    | BOOL (Input, NC) | Emergency stop / reset       |
+| **M_0**     | BOOL (Memory)    | Latching bit for cycle       |
+| **Press_A** | BOOL (Output)    | Forward stroke (piston down) |
+| **Press_B** | BOOL (Output)    | Hold press position          |
+| **Press_C** | BOOL (Output)    | Retract piston               |
