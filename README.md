@@ -1,32 +1,23 @@
 <h1 align="center">🛠️ PLC-Based Hydraulic Press Automation System</h1>
 <p align="center"> A complete PLC automation project using Ladder Logic (LD), Timers, and Sequential Control — Designed & Simulated in RSLogix / OpenPLC. </p>
 
-🚀 Project Overview
+<h2>📌 Project Overview</h2>
 
-This project focuses on automating a Hydraulic Press Machine using PLC-based Ladder Logic.
-The objective is to execute a fully automatic cycle consisting of:
+This project demonstrates the design and simulation of an automated hydraulic press system using a Programmable Logic Controller (PLC).
+The system is programmed in Ladder Logic (LD) and simulated using RSLogix/OpenPLC.
 
-1.Start → Safe Latching
+The goal is to automatically control the press sequence:
 
-2.Forward Press Movement
+1.Press Start
 
-3.Hold/Clamping
+2.Delay
 
-4.Retraction
+3.Forward stroke
 
-5.Stop / Emergency Reset
+4.Hold
 
-The entire sequence is built using TON timers and simulated using OpenPLC or RSLogix, ensuring industrial-grade safety, accuracy, and repeatability.
+5.Retract
 
-🎯 Objectives
+6.Stop safely
 
-• Implement Start/Stop latch logic for safe operation
-
-• Use timers to control sequence durations
-
-• Automate press cycle: Forward → Hold → Retract
-
-• Validate the PLC logic using OpenPLC/RSLogix simulation
-
-• Improve safety, remove operator dependency, and ensure cycle repeatability
-
+This improves safety, repeatability, and efficiency in industrial operations.
