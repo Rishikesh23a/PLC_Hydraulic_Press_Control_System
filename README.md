@@ -158,14 +158,7 @@ This can be applied in industries such as metal forming, sheet pressing, molding
 
 ---
 
-### 🔹 Simulation Results (Forward → Hold → Retract)
-<p align="center">
-  <img src="Screenshots/WhatsApp Image 2025-12-06 at 23.01.15_57b545f61.jpg" width="600">
-</p>
-
-<p align="center">
-  <img src="Screenshots/WhatsApp Image 2025-12-06 at 23.01.15_e075ea00.jpg" width="600">
-</p>
+### 🔹 Simulation Results 
 
 <p align="center">
   <img src="Screenshots/WhatsApp Image 2025-12-06 at 23.01.15_f589d0ee.jpg" width="600">
