@@ -148,6 +148,17 @@ The project successfully:
 
 This can be applied in industries such as metal forming, sheet pressing, molding, stamping, etc.
 
+## 📸 Simulation Screenshots
+
+<p align="center">
+  <img src="documentation/screenshots/ladder_logic.png" width="600">
+</p>
+
+<p align="center">
+  <img src="documentation/screenshots/simulation_output.png" width="600">
+</p>
+
+
 <h2>🚀 Future Improvements</h2>
 
 • Add limit switches for precise piston travel
