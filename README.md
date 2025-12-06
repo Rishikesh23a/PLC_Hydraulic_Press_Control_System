@@ -21,3 +21,15 @@ The goal is to automatically control the press sequence:
 6.Stop safely
 
 This improves safety, repeatability, and efficiency in industrial operations.
+
+<h2>🎯 Objectives</h2>
+
+✔ Implement Start/Stop control using PLC inputs
+
+✔ Control Forward → Hold → Retract sequence
+
+✔ Use TON timers for precise timing
+
+✔ Build a Latch Circuit for safe operation
+
+✔ Simulate the system using RSLogix/OpenPLC
