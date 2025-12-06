@@ -148,15 +148,40 @@ The project successfully:
 
 This can be applied in industries such as metal forming, sheet pressing, molding, stamping, etc.
 
-## 📸 Simulation Screenshots
 
+## 📸 Simulation & Ladder Logic Screenshots
+
+### 🔹 Hydraulic Press Ladder Logic
 <p align="center">
-  <img src="documentation/screenshots/ladder_logic.png" width="600">
+  <img src="Screenshots/Screenshot 2025-12-06 231842.png" width="700">
+</p>
+
+---
+
+### 🔹 Simulation Results (Forward → Hold → Retract)
+<p align="center">
+  <img src="Screenshots/WhatsApp Image 2025-12-06 at 23.01.15_57b545f61.jpg" width="600">
 </p>
 
 <p align="center">
-  <img src="documentation/screenshots/simulation_output.png" width="600">
+  <img src="Screenshots/WhatsApp Image 2025-12-06 at 23.01.15_e075ea00.jpg" width="600">
 </p>
+
+<p align="center">
+  <img src="Screenshots/WhatsApp Image 2025-12-06 at 23.01.15_f589d0ee.jpg" width="600">
+</p>
+
+---
+
+### 🔹 Timer Operation (TON0, TON1, TON2)
+<p align="center">
+  <img src="Screenshots/WhatsApp Image 2025-12-06 at 23.01.16_611d295f.jpg" width="600">
+</p>
+
+<p align="center">
+  <img src="Screenshots/WhatsApp Image 2025-12-06 at 23.01.16_f56d4b11.jpg" width="600">
+</p>
+
 
 
 <h2>🚀 Future Improvements</h2>
