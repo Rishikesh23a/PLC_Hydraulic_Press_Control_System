@@ -58,35 +58,35 @@ Timer Table
 <h2>📟 Ladder Logic Explanation</h2>
 🔹 Rung 1: Start/Stop Latching
 
-• Start energizes M_0 (latching bit)
+   • Start energizes M_0 (latching bit)
 
-• Stop immediately resets the cycle
+   • Stop immediately resets the cycle
 
-• Ensures safe start/stop control
+   • Ensures safe start/stop control
 
 🔹 Rung 2: Forward Stroke Activation
 
-• When M_0 is ON → TON0 timer starts (5s)
+   • When M_0 is ON → TON0 timer starts (5s)
 
-• After 5 seconds → Press_A = ON
+   • After 5 seconds → Press_A = ON
 
-• Piston begins downward motion
+   • Piston begins downward motion
 
 🔹 Rung 3: Press Hold Activation
 
-• Once Press_A completes, TON1 begins (7s)
+   • Once Press_A completes, TON1 begins (7s)
 
-• Press_B = ON
+   • Press_B = ON
 
-• Piston holds pressure on the workpiece
+   • Piston holds pressure on the workpiece
 
 🔹 Rung 4: Retraction
 
-• After hold time, TON2 runs (10s)
+   • After hold time, TON2 runs (10s)
 
-• Press_C = ON
+   • Press_C = ON
 
-• Piston retracts to home position
+   • Piston retracts to home position
 
 <h2>🧪 Simulation Results</h2>
 
@@ -105,7 +105,7 @@ The press cycle follows this automatic sequence:
 This was verified in OpenPLC/RSLogix simulation.
 
 <h2>📂 Folder Structure</h2>
-
+```
 plc-based-hydraulic-press-automation/
 │
 ├─ ladder_logic/
@@ -120,7 +120,7 @@ plc-based-hydraulic-press-automation/
 │   └─ hydraulic_press_flowchart.png
 │
 └─ README.md                       # This file
-
+```
 <h2>📝 Observations</h2>
 
 • Timers ensure accurate, repeatable machine operation
